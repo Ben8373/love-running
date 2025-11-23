@@ -95,3 +95,40 @@ footer {
     background-color: orange;
 
 }
+
+
+
+    #menu {
+        display: flex;
+        gap: 2rem;
+    }
+
+    #menu li {
+        margin-bottom: 0;
+    }
+
+    main {
+        margin: 70px;
+    }
+/*media query:tablets and larger screens(768px and up)*/
+@media screen and (min-width: 768px) {
+    /*header*/
+
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        display: block;
+        width: fit-content;
+        padding: right 1rem;
+    }
+
+    #menu {
+        display:flex;
+    }
+
+    #menu > li {
+        padding-left: 1rem;
+    }
+    
+}
