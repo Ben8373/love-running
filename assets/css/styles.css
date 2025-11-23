@@ -1,5 +1,5 @@
 /* Google fonts import */
-@import url('https://fonts.googleapis.com/css2?family= Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900 &family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Oswald:wght@200..700&display=swap');
 /*asterisk wildcard selector to override default styles added by the browser*/
 * {
     margin: 0;
@@ -24,7 +24,10 @@ header {
     position:fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 02px 2px #3a3a3a;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display:flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 header a {
@@ -36,7 +39,7 @@ h1 {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #252525
+    color: #252525;
     
 }
 
@@ -54,11 +57,37 @@ h1 {
     border-bottom: 1px solid #3a3a3a;
 }
 
+/*navbar styles with dropdown toggle*/
+nav {
+    position: absolute;
+    background-color: #ffffff;
+    left: 0;
+    width: 100%;
+    box-shadow: 0 2px 2px #3a3a3a;
+    padding: 0 1rem;
+    display: none;
+    top: 100%;
+}
+
+#nav-toggle:checked ~ nav {
+    display: block;
+}
+
+#nav-toggle{
+    display: none;
+}
+
+.nav-toggle-label {
+    cursor: pointer;
+    font-size: 2rem;
+
+}
 /*main-section*/
 main {
     background-color: lightblue;
     /*makes main element take up any available space to push footer down*/
     flex: 1 0 auto;
+    margin: 47px;
     
 }
 /*footer*/
