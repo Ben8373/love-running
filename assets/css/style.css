@@ -208,7 +208,7 @@ main {
     background-position: 75%;
     padding: 20px 10% 0 10%;
 
-
+}
 
 #signup-form {
     color: #ffffff;
@@ -373,7 +373,7 @@ main {
     }
 }
 
-@media screen and (min-width: 1200px) {    
+@media screen and (min-width: 1200px) { 
     /* Reasons section */
     #benefits {
         display: flex;
@@ -385,7 +385,7 @@ main {
     }
 
     #benefits-image {
-        order: 0
+        order: 0;
     }
 
     #benefits-mental {
@@ -399,5 +399,4 @@ main {
     #benefits-physical > div {
         align-self: flex-end;
     }
-}
 }
