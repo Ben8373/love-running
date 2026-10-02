@@ -52,11 +52,15 @@ CSS3
 
 ## The Meetup Times Section
 
+![Meet Up Times Screenshot](assets\images\meetup.png)
+
 - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers.
 
 - This section will be updated as these times change to keep the user up to date.
 
 ## The Footer Section
+
+![Footer Screenshot](assets\images\footer.png)
 
 - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user.
 
@@ -64,11 +68,15 @@ CSS3
 
 ## The Gallery Page
 
+![Gallery Screenshot](assets\images\gallery.png)
+
 - The gallery will provide the user with supporting images to see what the meet ups look like.
 
 - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together.
 
 ## The Signup Page
+
+![Signup Screenshop](assets\images\signupform.png)
 
 - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address.
 
