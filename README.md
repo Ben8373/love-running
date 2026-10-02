@@ -1,10 +1,33 @@
 # Love Running
 
+## Responsive Design
+
+- The image below shows how the  sit appears accross different screen sizes, using the Am I Responsive tool.
+
+![Am I Responsive Screenshot](assets\images\responsivness.png)
+
 The Love running website is designed to create a wellcoming and informal space for runners who wish to socialise and keep themselves fit in Dublin, Ireland. The site provides easily accessible information, regarding meetup times, routes and venues. The website has a simple sign up form so that participants can recieve information
 
 # Features
 
+## Technologies Used
+
+### Languages
+
+HTML5
+
+CSS3
+
+### Frameworks, Libraries and Programs
+- Google Fonts - Typography
+- GitHub - Version Control and Web Hosting
+- VS Code - Development Enviroment
+- Fontawesome - Favicon and Social Media Icons
+- Am I responsive - Screen Responsiveness
+
 ## Navigation Bar
+
+![Navigation Bar Screenshot](assets\images\navbar.png)
 
 - Fully responsive navbar which is featured on all three pages, providing clean, modern UI with links to the logo, homepage, gallery and signup pages.
 
@@ -12,11 +35,15 @@ The Love running website is designed to create a wellcoming and informal space f
 
 ## The Landing Page Image
 
+![Landing Page Screenshot](assets\images\landingpageimage.png)
+
 - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
 
 - This section introduces the user to Love Running with an eye catching animation to grab their attention
 
 ## The Club Ethos Section
+
+![Club Ethos Screenshot](assets\images\Ethos.png)
 
 - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall.
 
