@@ -4,7 +4,7 @@
 
 - The image below shows how the  sit appears accross different screen sizes, using the Am I Responsive tool.
 
-![Am I Responsive Screenshot](assets\images\responsivness.png)
+![Am I Responsive Screenshot](assets\images\responsiveness.png)
 
 The Love running website is designed to create a wellcoming and informal space for runners who wish to socialise and keep themselves fit in Dublin, Ireland. The site provides easily accessible information, regarding meetup times, routes and venues. The website has a simple sign up form so that participants can recieve information
 
