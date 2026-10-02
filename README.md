@@ -14,9 +14,9 @@ The Love running website is designed to create a wellcoming and informal space f
 
 ### Languages
 
-HTML5
+- HTML5
 
-CSS3
+- CSS3
 
 ### Frameworks, Libraries and Programs
 - Google Fonts - Typography
@@ -82,25 +82,57 @@ CSS3
 
 ## Features for future implimentation
 
-## Testing
+- ### Interactive Route Maps
+
+  - A future enhancement for this project would be the addition of interactive running route maps. These would show meetup locations, distances, and terrain, helping users visualise the routes before attending a session and improving overall usability.
+
+- ### Member Login System
+
+  - Implement a secure login area where users can track their running progress and access personalised content.
+
+## Testing 
 
 ## Validator Testing
 
-- HTML Validator
+- ### HTML Validator
 
-- CSS Validator
+![HTML Validator Screenshot](assets/images/htmlvalidator.png)
+
+- ### CSS Validator
+
+![CSS Validator Screeenshot](assets/images/cssvalidator.png)
 
 ## Unfixed Bugs
 
+- ### Sign up page braking due to CSS syntax error
+
+  -  Cause: A stray closing brace ( } ) at the bottom of the CSS file prevented the final media query and layout rules  from loading. This caused the signup page to display incorrectly.
+
+  -  Fix: Removed the extra brace and revalidated the CSS. The signup page now renders correctly across all screen sizes.
+
+- ### Images not displaying on README in GitHub
+
+    - Cause: The image paths in the README were incorrect.
+
+    - Backslashes (\) were used instead of forward slashes (/).
+
+    - Some filenames were misspelled (e.g., responsivness.png instead of responsiveness.png).
+
+    - The README referenced the wrong folder (assets/img/ instead of assets/images/).
+
+   - Fix: Updated all image paths to use the correct folder and correct spelling, and replaced backslashes with   forward slashes. After committing and pushing the corrected files, all images displayed correctly on GitHub.
+
+
+
 ## Deployment
 
--The site was deployed to GitHub pages. The steps to deploy are as follows:
+- #### The site was deployed to GitHub pages. The steps to deploy are as follows:
 
--  In the GitHub repository, navigate to the Settings tab.
+  -  In the GitHub repository, navigate to the Settings tab.
 
--  From the source section drop-down menu, select the Master Branch.
+  -  From the source section drop-down menu, select the Master Branch.
 
--  Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+  -  Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 ## Credits
 
