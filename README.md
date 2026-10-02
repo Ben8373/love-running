@@ -4,7 +4,7 @@
 
 - The image below shows how the  sit appears accross different screen sizes, using the Am I Responsive tool.
 
-![Am I Responsive Screenshot](assets\images\responsiveness.png)
+![Am I Responsive Screenshot](assets/images/responsiveness.png)
 
 The Love running website is designed to create a wellcoming and informal space for runners who wish to socialise and keep themselves fit in Dublin, Ireland. The site provides easily accessible information, regarding meetup times, routes and venues. The website has a simple sign up form so that participants can recieve information
 
@@ -28,7 +28,7 @@ CSS3
 
 ## Navigation Bar
 
-![Navigation Bar Screenshot](assets\img\navbar.png)
+![Navigation Bar Screenshot](assets/images/navbar.png)
 
 - Fully responsive navbar which is featured on all three pages, providing clean, modern UI with links to the logo, homepage, gallery and signup pages.
 
@@ -36,7 +36,7 @@ CSS3
 
 ## The Landing Page Image
 
-![Landing Page Screenshot](assets\img\landingpageimage.png)
+![Landing Page Screenshot](assets/images/landingpageimage.png)
 
 - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
 
@@ -44,7 +44,7 @@ CSS3
 
 ## The Club Ethos Section
 
-![Club Ethos Screenshot](assets\img\Ethos.png)
+![Club Ethos Screenshot](assets/images/Ethos.png)
 
 - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall.
 
@@ -52,7 +52,7 @@ CSS3
 
 ## The Meetup Times Section
 
-![Meet Up Times Screenshot](assets\img\meetup.png)
+![Meet Up Times Screenshot](assets/images/meetup.png)
 
 - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers.
 
@@ -60,7 +60,7 @@ CSS3
 
 ## The Footer Section
 
-![Footer Screenshot](assets\img\footer.png)
+![Footer Screenshot](assets/images/footer.png)
 
 - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user.
 
@@ -68,7 +68,7 @@ CSS3
 
 ## The Gallery Page
 
-![Gallery Screenshot](assets\img\gallery.png)
+![Gallery Screenshot](assets/images/gallery.png)
 
 - The gallery will provide the user with supporting images to see what the meet ups look like.
 
@@ -76,7 +76,7 @@ CSS3
 
 ## The Signup Page
 
-![Signup Screenshop](assets\img\signupform.png)
+![Signup Screenshot](assets/images/signupform.png)
 
 - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address.
 
