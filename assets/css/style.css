@@ -53,6 +53,7 @@ header a {
     list-style-type: none;
 }
 
+
 #menu > li {
     margin-bottom: 1em;
 }
@@ -340,15 +341,15 @@ main {
 
     /* Form */
     #signup {
-        background-position: center;
+        min-height: 820px;
+        background-position:  center;
         position: relative;
     }
 
     #signup-form {
+        margin-top: 20px;
         max-width: 400px;
-        position: absolute;
-        left: 10%;
-        top: 150px;
+       margin: 150px 0 0 5%;
     }
 
     .text-input:hover {
