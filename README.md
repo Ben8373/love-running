@@ -23,7 +23,8 @@ CSS3
 - GitHub - Version Control and Web Hosting
 - VS Code - Development Enviroment
 - Fontawesome - Favicon and Social Media Icons
-- Am I responsive - Screen Responsiveness
+- amiresponsive - Screen Responsiveness
+- removebg - remove background from amiresponsive screenshot
 
 ## Navigation Bar
 
