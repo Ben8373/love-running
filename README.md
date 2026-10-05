@@ -2,11 +2,11 @@
 
 ## Responsive Design
 
-- The image below shows how the  sit appears accross different screen sizes, using the Am I Responsive tool.
+- The image below shows how the  site appears across different screen sizes, using the Am I Responsive tool.
 
 ![Am I Responsive Screenshot](assets/images/responsiveness.png)
 
-The Love running website is designed to create a wellcoming and informal space for runners who wish to socialise and keep themselves fit in Dublin, Ireland. The site provides easily accessible information, regarding meetup times, routes and venues. The website has a simple sign up form so that participants can recieve information
+The Love running website is designed to create a welcoming and informal space for runners who wish to socialise and keep themselves fit in Dublin, Ireland. The site provides easily accessible information, regarding meetup times, routes and venues. The website has a simple sign up form so that participants can recieve information
 
 # Features
 
@@ -22,7 +22,7 @@ The Love running website is designed to create a wellcoming and informal space f
 - Google Fonts - Typography
 - GitHub - Version Control and Web Hosting
 - VS Code - Development Enviroment
-- Fontawesome - Favicon and Social Media Icons
+- Font awesome -  Social Media Icons
 - amiresponsive - Screen Responsiveness
 - removebg - remove background from amiresponsive screenshot
 
@@ -80,7 +80,7 @@ The Love running website is designed to create a wellcoming and informal space f
 
 - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address.
 
-## Features for future implimentation
+## Features for future implementation
 
 - ### Interactive Route Maps
 
@@ -122,6 +122,18 @@ The Love running website is designed to create a wellcoming and informal space f
 
    - Fix: Updated all image paths to use the correct folder and correct spelling, and replaced backslashes with   forward slashes. After committing and pushing the corrected files, all images displayed correctly on GitHub.
 
+# Lighthouse Report
+
+- A full Lighthouse audit was carried out, using Chrome DevTools.
+
+- The exported JSON report is included in the repository and can be viewed using the Lighthouse Report Viewer.
+
+[Lighthouse Report Viewer](testing/lighthousereport.json)
+
+- Below is a screenshot of the audit scores.
+
+![Audit Scores](assets/images/lighthousescreenshot.png)
+
 
 
 ## Deployment
@@ -132,13 +144,31 @@ The Love running website is designed to create a wellcoming and informal space f
 
   -  From the source section drop-down menu, select the Master Branch.
 
-  -  Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+  -  Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display  to indicate the successful deployment.
 
 ## Credits
 
-- Content
+###  Content and Code
 
-- Media
+- All code was written by  myself as part of the Full Stack Software Engineering Diploma.
+
+- Code Institute for learning materials, project structure and guidance.
+
+### Resources
+
+- MDN Web Docs — reference for HTML, CSS, and accessibility best practices.
+
+- W3Schools — supplementary reference for CSS layout and styling.
+
+- Google Fonts — typography used throughout the site.
+
+- Font Awesome — icons used in the navigation and content sections.
+
+- Chrome DevTools & Lighthouse — used for performance, accessibility, best‑practice, and SEO testing.
+
+- removebg - For background removal of the am I responsive? screenshot.
+
+- amiresponsive - responsiveness preview tool.
 
 ## General Project Advice
 
