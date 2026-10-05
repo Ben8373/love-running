@@ -142,9 +142,15 @@ The Love running website is designed to create a welcoming and informal space fo
 
   -  In the GitHub repository, navigate to the Settings tab.
 
-  -  From the source section drop-down menu, select the Master Branch.
+  ![Settings Tab Screenshot](assets/images/settingstab.png)
 
-  -  Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display  to indicate the successful deployment.
+  -  Once in the Settings tab, click on the pages tab in the left hand menu.
+
+  ![Pages Tab Screenshot](assets/images/pagestab.png)
+
+  - Click on the link to the live site.
+
+  ![Live Site Link Screenshot](assets/images/livesitelink.png)
 
 ## Credits
 
