@@ -1,12 +1,13 @@
 # Love Running
 
+- Love Running is a responsive, accessible website designed to create a welcoming and informal space for runners in Dublin, Ireland. The site provides clear information about meetup times, routes, venues, and includes a simple signup form for users who wish to join the community and receive updates.
+
 ## Responsive Design
 
 - The image below shows how the  site appears across different screen sizes, using the Am I Responsive tool.
 
 ![Am I Responsive Screenshot](assets/images/responsiveness.png)
 
-The Love running website is designed to create a welcoming and informal space for runners who wish to socialise and keep themselves fit in Dublin, Ireland. The site provides easily accessible information, regarding meetup times, routes and venues. The website has a simple sign up form so that participants can recieve information
 
 # Features
 
