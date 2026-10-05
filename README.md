@@ -102,6 +102,27 @@ The Love running website is designed to create a welcoming and informal space fo
 
 ![CSS Validator Screeenshot](assets/images/cssvalidator.png)
 
+Layout adjusts correctly | Works as expected | Pass |
+This completes the required testing section.
+
+## Manual Testing
+
+- The following manual tests were carried out to ensure correct functionality and responsiveness across all pages.
+
+| Feature | Test | Expected Result | Actual Result | Pass/Fail |
+|--------|------|-----------------|---------------|-----------|
+| Navigation Bar | Click all links | Each link loads the correct page | Works as expected | Pass |
+| Navigation Bar | Resize screen | Navbar remains responsive and readable | Works as expected | Pass |
+| Landing Page | Load page | Hero image and text overlay display correctly | Works as expected | Pass |
+| Club Ethos Section | Scroll | Text and images display correctly | Works as expected | Pass |
+| Meetup Times Section | Scroll | Times, locations, and distances visible | Works as expected | Pass |
+| Gallery Page | Load page | All gallery images display correctly | Works as expected | Pass |
+| Signup Form | Submit empty form | Browser shows required field warnings | Works as expected | Pass |
+| Signup Form | Submit valid form | Form submits successfully | Works as expected | Pass |
+| Footer | Click social links | Links open in a new tab | Works as expected | Pass |
+| Responsiveness | Test on mobile/tablet/desktop | Layout adjusts correctly at all breakpoints | Works as expected | Pass |
+
+
 ## Unfixed Bugs
 
 - ### Sign up page braking due to CSS syntax error
