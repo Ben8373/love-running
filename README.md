@@ -200,7 +200,7 @@ This completes the required testing section.
 
 - amiresponsive - responsiveness preview tool.
 
-## General Project Advice
+
 
 
 
