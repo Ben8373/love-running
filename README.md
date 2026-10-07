@@ -18,6 +18,29 @@
 
 - User stories were planned and tracked for this project, using a GitHub project board.
 
+### MoSCoW Prioritisation
+
+#### Must Have:
+
+- ___As a___ user ___I want to___ easily navigate the site ___so that I can___ find information quickly.
+
+- ___As a___ user, ___I want to___ read information about the club ___so that I can___ understand what it offers.
+
+-  ___As a___ user, ___I want___ the site to work on any device ___so that I can___ browse comfortably on mobile, 
+tablet or desktop.
+
+- ___As a___user, ___I want to___ access contact information ___so that I can___ get in touch with the club.
+
+### Acceptance Criteria:
+
+#### Should Have:
+
+- ___As a___ user, ___I want to___ understand the benefits of joining ___so that I can___ decide whether the club suits me.
+
+#### Could Have:
+
+- ___As a___ user, ___I want to___ follow the club on social media ___so that I can___ stay updated.
+
 #### GitHub Project Board Link:
 
 [View The Project Board](https://github.com/users/Ben8373/projects/6/views/1)
