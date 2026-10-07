@@ -202,6 +202,15 @@ This completes the required testing section.
 
 - amiresponsive - responsiveness preview tool.
 
+## Lessons Learned
+
+- I learned how to build a multi section README.md document.
+
+- I gained confidence in using GitHub and I learned how to deploy to GitHub pages.
+
+- I learned how to build responsive layouts. 
+
+
 
 
 
