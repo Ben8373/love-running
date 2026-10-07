@@ -31,7 +31,7 @@ tablet or desktop.
 
 - ___As a___user, ___I want to___ access contact information ___so that I can___ get in touch with the club.
 
-### Acceptance Criteria:
+
 
 #### Should Have:
 
