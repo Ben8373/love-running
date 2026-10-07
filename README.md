@@ -184,6 +184,8 @@ This completes the required testing section.
 
 - Copilot AI was used in the structure and formatting of the README document.
 
+- Code Institute staff and students for invaluable guidance on the Code Institute Discord Channel
+
 ### Resources
 
 - MDN Web Docs — reference for HTML, CSS, and accessibility best practices.
