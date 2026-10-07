@@ -8,6 +8,26 @@
 
 ![Am I Responsive Screenshot](assets/images/responsiveness.png)
 
+## User Experience(UX)
+
+### Strategy
+
+- The goal of Love Running is to encourage users to join a local running club by presenting clear information, strong visuals, and an inviting tone. The site aims to motivate beginners and experienced runners alike.
+
+### User Stories
+
+- User stories were planned and tracked for this project, using a GitHub project board.
+
+#### GitHub Project Board Link:
+
+[View The Project Board](https://github.com/users/Ben8373/projects/6/views/1)
+
+#### Summary of the User Stories included in this project:
+
+
+
+
+
 
 # Features
 
