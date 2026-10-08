@@ -43,6 +43,7 @@ tablet or desktop.
 
 - ___As a___ user, ___I want to___ follow the club on social media ___so that I can___ stay updated.
 
+- ___As a___ user, ___I want to___ view photos of the club ___so that I can___ get a sense of the atmosphere and activities.
 #### GitHub Project Board Link:
 
 [View The Project Board](https://github.com/users/Ben8373/projects/6/views/1)
