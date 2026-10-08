@@ -20,6 +20,8 @@
 
 ### MoSCoW Prioritisation
 
+#### Summary of the User Stories included in this project:
+
 #### Must Have:
 
 - ___As a___ user ___I want to___ easily navigate the site ___so that I can___ find information quickly.
@@ -29,7 +31,7 @@
 -  ___As a___ user, ___I want___ the site to work on any device ___so that I can___ browse comfortably on mobile, 
 tablet or desktop.
 
-- ___As a___user, ___I want to___ access contact information ___so that I can___ get in touch with the club.
+- ___As a___ user, ___I want to___ access contact information ___so that I can___ get in touch with the club.
 
 
 
@@ -45,7 +47,7 @@ tablet or desktop.
 
 [View The Project Board](https://github.com/users/Ben8373/projects/6/views/1)
 
-#### Summary of the User Stories included in this project:
+
 
 
 
